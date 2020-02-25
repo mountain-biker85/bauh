@@ -22,7 +22,7 @@
 - **python3-requests**
 - **python-yaml**
 - **qt5dxcb-plugin**
-- **python3-venv** ( только для [Manual installation](https://github.com/vinifmor/bauh/tree/wgem#manual-installation) )
+- **python3-venv** ( только для [Ручной установки](https://github.com/vinifmor/bauh/tree/wgem#manual-installation) )
 - **libappindicator3** ( для **режима лотка** в GTK3-окружении )
 
 #### Дистрибутивы на основе Arch

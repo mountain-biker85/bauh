@@ -5,7 +5,7 @@
 
 У этого проекта есть официальный аккаунт в Twitter ( **@bauh4linux** ) так что пользователи могут оставаться в курсе его новостей.
 
-Чтобы внести свой вклад взгляните на [CONTRIBUTING.md](https://github.com/mountain-biker85/bauh/blob/master/docs/CONTRIBUTING_RU.md)
+Чтобы внести свой вклад взгляните на [CONTRIBUTING.md](https://github.com/mountain-biker85/bauh/blob/master/docs/ru/CONTRIBUTING_RU.md)
 
 
 ![management panel](https://raw.githubusercontent.com/vinifmor/bauh/master/pictures/panel.png)

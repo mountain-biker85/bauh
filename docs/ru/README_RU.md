@@ -117,7 +117,7 @@ installation_level: null # defines a default installation level: user or system.
 ```
 
 - Обязательные зависимости:
-    - Для всех дстрибутивов: **flatpak**
+    - Для всех дистрибутивов: **flatpak**
 
 #### Snap ( snap )
 - Пользователь может осуществлять поиск, установку, удаление, обновление, запуск и откат версий приложений.
@@ -125,7 +125,12 @@ installation_level: null # defines a default installation level: user or system.
 ![snap_search](https://raw.githubusercontent.com/vinifmor/bauh/staging/pictures/snap/search.gif)
 
 - Обязательные зависимости:
-    - Для всех дстрибутивов: **snapd** ( он должен быть включен после его установки. Подробности на сайте https://snapcraft.io/docs/installing-snapd )
+    - Для всех дистрибутивов: **snapd** ( он должен быть включен после его установки).
+- Включение поддержки Snap в дистрибутивах на основе Arch и в OpenSuse:
+```
+sudo systemctl enable --now snapd.socket
+```
+ - Подробности на сайте https://snapcraft.io/docs/installing-snapd 
 
 #### AppImage ( appimage )
 - Пользователь может осуществлять поиск, установку, удаление, откат версий, запуск и извлечение истории приложений
